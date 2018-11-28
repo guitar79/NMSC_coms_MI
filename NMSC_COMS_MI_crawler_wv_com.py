@@ -5,8 +5,8 @@
 #http://nmsc.kma.go.kr/emcoms/BIMG/COMS/Y2017/M08/D26/coms_mi_le1b_ir1_cf_201708260215.png # fulldisk asia
 #http://nmsc.kma.go.kr/emcoms/BIMG/COMS/Y2017/M09/D15/coms_mi_le1b_ir1_cn_201709152200.png # 북반구확장 asia
 """
-chl = ['vis', 'ir1', 'ir2', 'swir', 'wv', 'com']
-#chl = ['wv', 'com']
+#chl = ['vis', 'ir1', 'ir2', 'swir', 'wv', 'com']
+chl = ['wv', 'com']
 #area = [cf, cn, a, k, lk]
 area = "cn"
 import urllib.request
